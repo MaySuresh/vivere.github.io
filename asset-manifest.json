@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/vivere.github.io/static/css/main.85c8a722.css",
+    "main.js": "/vivere.github.io/static/js/main.e08f2e12.js",
+    "static/media/pexels-fauxels-3183197.jpg": "/vivere.github.io/static/media/pexels-fauxels-3183197.0d66fdcf482699b76169.jpg",
+    "static/media/globe-4872998_1920.jpg": "/vivere.github.io/static/media/globe-4872998_1920.cc9a85f7e599df796161.jpg",
+    "static/media/globe.png": "/vivere.github.io/static/media/globe.ca61fdead560547d79ab.png",
+    "static/media/iiq1.png": "/vivere.github.io/static/media/iiq1.07fdbede81e16851700c.png",
+    "static/media/idn1.png": "/vivere.github.io/static/media/idn1.73201041189ca9c62f34.png",
+    "static/media/cyber-security-2296269_1920.jpg": "/vivere.github.io/static/media/cyber-security-2296269_1920.113719ff12f4c333a5a5.jpg",
+    "static/media/5-Cyberark.webp": "/vivere.github.io/static/media/5-Cyberark.ae58fd65ecb6b85f0c46.webp",
+    "static/media/6-OneIdentity.webp": "/vivere.github.io/static/media/6-OneIdentity.7fe79c8b4ed0d8d3615b.webp",
+    "static/media/4-SalesForce.webp": "/vivere.github.io/static/media/4-SalesForce.1e9e355e0e36287ab519.webp",
+    "static/media/15-BeyondTrust.webp": "/vivere.github.io/static/media/15-BeyondTrust.3179f897e4e396a38fe9.webp",
+    "static/media/3-Delinea.webp": "/vivere.github.io/static/media/3-Delinea.1c818cac976696778ff0.webp",
+    "static/media/1-SailPoint.webp": "/vivere.github.io/static/media/1-SailPoint.3c61adebb2f8f72853b1.webp",
+    "static/media/2-okta.webp": "/vivere.github.io/static/media/2-okta.7561412aaae7336bc36a.webp",
+    "static/media/logo.png": "/vivere.github.io/static/media/logo.69e5e977fcfc6d81f0be.png",
+    "index.html": "/vivere.github.io/index.html",
+    "main.85c8a722.css.map": "/vivere.github.io/static/css/main.85c8a722.css.map",
+    "main.e08f2e12.js.map": "/vivere.github.io/static/js/main.e08f2e12.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85c8a722.css",
+    "static/js/main.e08f2e12.js"
+  ]
+}
